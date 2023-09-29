@@ -17,8 +17,5 @@ gotasn will save the ip ranges extracted from asnmap to a file called ipranges.t
 
 ## Prerequisites
 
-Make sure you have masscan installed.
+- masscan
 
-## License
-
-add license here
