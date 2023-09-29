@@ -9,4 +9,6 @@ cd gotasn
 
 pip3 install -r requirements.txt
 
+## USAGE
+
 python3 gotasn.py ASN
